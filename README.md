@@ -87,6 +87,7 @@ I also explore the intersection of AI and embedded systems through automation, t
 
 ---
 
+<!--
 # GitHub Stats
 
 <div align="center">
@@ -95,6 +96,7 @@ I also explore the intersection of AI and embedded systems through automation, t
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravikiran-dasari&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
+-->
 
 ---
 
@@ -104,6 +106,10 @@ I also explore the intersection of AI and embedded systems through automation, t
 
 <a href="https://www.linkedin.com/in/ravikiran-dasari/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://medium.com/@ravikiran.dasari4">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
 <a href="mailto:ravikiran.dasari4@gmail.com">
