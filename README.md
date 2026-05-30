@@ -83,7 +83,7 @@ I also explore the intersection of AI and embedded systems through automation, t
 
 # Open Source Contributions
 
-- Contributed to [awesome-copilot](https://github.com/ravikiran-dasari/awesome-copilot/tree/add-expert-embedded-c-engineer-agent-staged) with an expert embedded C engineer agent concept.
+- Contributed to [awesome-copilot](https://github.com/ravikiran-dasari/awesome-copilot/tree/add-expert-embedded-c-engineer-agent-staged) with an expert embedded engineering concepts.
 
 ---
 
